@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/cmakkaya/akkaya-app-project/_apis/build/status%2Fcmakkaya.AzureDevops-sample-pipelines-java-code?branchName=main)](https://dev.azure.com/cmakkaya/akkaya-app-project/_build/latest?definitionId=12&branchName=main)
 AzureDevops-sample-pipelines-java-code
 
 Sample-pipelines-java-code for AzureDevops article
